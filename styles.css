@@ -552,7 +552,7 @@ p {
 }
 
 .feature-icon {
-    position: absolute;
+    position: inherit;
     top: 1.5rem;
     left: 1.5rem;
     width: 60px;
